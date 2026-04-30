@@ -1,2 +1,7 @@
-# Assignment-student-grading-system
-I have been working on a Python script that assesses students’ performance based on their exam marks, assessments and payment status. 
+# Student Grading System
+A Python-based logic script to determine student eligibility for certification based on scores and financial status.
+
+## Logic Rules
+- **Pass:** Exam >= 25 AND Assessment >= 15
+- **Condoned:** Total score of 39
+- **Certification:** Requires a full fee payment of 100.
